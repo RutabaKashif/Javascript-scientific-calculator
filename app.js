@@ -30,3 +30,5 @@ function getRes(){
     //var value = "Math.PI"
     //document.getElementById('result').value  = value.replace("Math.PI"," π ")
 }
+
+  
